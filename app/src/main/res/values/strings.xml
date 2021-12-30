@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="captured_image">Captured Image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+</resources>
